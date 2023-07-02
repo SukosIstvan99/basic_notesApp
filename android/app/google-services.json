@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632333106411",
+    "project_id": "mobildev-2cf1c",
+    "storage_bucket": "mobildev-2cf1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632333106411:android:a52215b251160173d0d2ae",
+        "android_client_info": {
+          "package_name": "com.example.mobildev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632333106411-mh59ag68c4frpas7kqaceq1fbsg5iavu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjXz2lwt9JCG3UddvHzJkoW68cSYLXa5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632333106411-mh59ag68c4frpas7kqaceq1fbsg5iavu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
